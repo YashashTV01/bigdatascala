@@ -1,0 +1,10 @@
+
+
+
+"I have collected data for four distinct years, which shows the annual total of COVID-19 instances. These educational bar graphs, created with R Studio's ggplot tool, show how Covid-19 has affected different nations and how trends have changed over time.
+
+It is clear from looking at the graphs which countries were more affected by COVID-19 year. With the most instances overall in 2020, France claimed the lead, followed by Italy and Germany. In 2021, France continued to have high numbers, while Germany outpaced Italy overall in terms of instances. There was a noticeable increase in instances related to the Netherlands and Spain.
+
+
+
+#################
